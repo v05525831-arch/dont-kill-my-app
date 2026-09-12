@@ -1,4 +1,4 @@
----
+gccc---
 manufacturer:
     - tecno
 
